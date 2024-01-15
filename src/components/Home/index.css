@@ -1,0 +1,55 @@
+.app-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.input-container{
+    
+    width: 448px;
+height: 32.7px;
+top: 73px;
+left: 372px;
+border-radius: 5px;
+
+border: 1px solid #000000
+
+}
+.title{
+    font-family: Inter;
+font-size: 30px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.list-view-btn{
+    
+    width: 30px;
+height: 30px;
+top: 104px;
+left: 842px;
+margin-top: 20px;
+
+
+}
+.grid-view-btn{
+    width: 23px;
+height: 23px;
+top: 77px;
+left: 885px;
+
+
+}
+.btn{
+    background: none;
+    border: none;
+    outline: none;
+    margin-top: 50px;
+    padding-top: 20px;
+    
+
+
+}
